@@ -4,8 +4,7 @@ end
 
 introduction("Josh")
 
-def introdcution_with_language(name2, language)
+def introduction_with_language(name2, language)
   puts "Hi, my name is #{name2} and I am learning to program #{language}.\n"
 end
-
-introdcution_with_language("Dan", Ember.js)
+uction_with_language("Dan", Ember.js)
